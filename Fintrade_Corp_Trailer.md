@@ -4,6 +4,8 @@ Project: Project Chimera - Q3 Marketing Initiative
 
 Release Date: 2025-09-18
 
+Episode: https://youtu.be/wdM7Potmy-E
+
 Status: LIVE
 
 Document Type: Internal-Facing Personnel Dossier
