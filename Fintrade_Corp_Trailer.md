@@ -19,7 +19,7 @@ This document serves as the official cast manifest, providing brief, need-to-kno
 **The FinTrade Corp Team**
 
 * **Blake Reynolds (EVP, Digital-Markets):** A results-driven leader with a passion for innovation. Blake is responsible for aligning the Digital-Markets division's strategic initiatives with the board's vision for growth. He is a firm believer in shareholder value, market dynamics, and organizational agility.
-	- [ ] **Background:** Blake's career is a masterclass in corporate ladder-climbing, with a resume that includes Senior Product Manager at **Oracle** and a lengthy stint in Enterprise Cloud Solutions at **Microsoft**. He is an expert in PowerPoint, not product.
+	- **Background:** Blake's career is a masterclass in corporate ladder-climbing, with a resume that includes Senior Product Manager at **Oracle** and a lengthy stint in Enterprise Cloud Solutions at **Microsoft**. He is an expert in PowerPoint, not product.
 * **Sammy Alvarez (Head of Product, Digital-Markets):** The visionary Head of Product. Sammy is dedicated to disrupting the traditional finance landscape with bold, paradigm-shifting ideas. He excels at blue-sky thinking and empowers his teams to execute on the next generation of fintech solutions.
 	- [ ] **Background:** A serial startup founder, Sammy was an early product manager at **Uber** during its "move fast and break things" era and later served as a "Growth Evangelist" for a now-defunct co-working space unicorn.
 * **Jordan Lee (Lead Software Engineer):** The technical anchor of the engineering team. Jordan is responsible for translating product vision into robust, scalable systems. He is a strong advocate for best practices in software development, including comprehensive testing and documentation.
